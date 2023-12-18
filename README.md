@@ -6,7 +6,7 @@
 - 👯 I’m keen to collaborate on **Open Source Projects** and innovative **React applications**
 - 🤔 Seeking advice on **Best Practices in Full-Stack Development**
 - 💬 Happy to chat about **React, JavaScript, and Emerging Web Technologies**
-- 📫 Reach me at: [Email](atizazhashmi786@gmail.com)
+- 📫 Reach me at: [atizazhashmi786@gmail.com](atizazhashmi786@gmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a passion for learning new coding languages and techniques**
 

@@ -1,6 +1,6 @@
 ### Hi there, I'm Atizaz 👋
 
-#### Aspiring Full-Stack Developer & React Prodigy
+#### Aspiring Full-Stack Developer & React Expert
 
 - 🌱 I’m currently mastering **Advanced React Techniques** and exploring **Full-Stack Development**
 - 👯 I’m keen to collaborate on **Open Source Projects** and innovative **React applications**
